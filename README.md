@@ -5,6 +5,6 @@ This basic program was made to register flight information, suggest packages bas
 
 - src/ui holds the FlightCalculator.java
 
--docs holds all the documentation: Javadoc, analysis, and a flow diagram.
+- docs holds all the documentation: Javadoc, analysis, and a flow diagram.
 
--bin/ui holds the binary files.
+- bin/ui holds the binary files.
